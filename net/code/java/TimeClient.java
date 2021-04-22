@@ -10,4 +10,10 @@ public interface TimeClient {
     void setDateAndTime(int day,  int month,  int year,
                         int hour, int minute, int second);
     LocalDateTime getLocalDateTime();
+    
+    static void MethodInsideInterface()
+    {
+    	int a = 0;
+    	
+    }
 }
