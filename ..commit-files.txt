@@ -1,0 +1,20 @@
+1619103032
+A	net/code/java/TimeClient.java
+A	net/code/java/TimeClientExample.java
+A	net/code/java/TimeClientImplementation.java
+
+1619103072
+M	net/code/java/TimeClient.java
+M	net/code/java/TimeClientExample.java
+
+1620984879
+R100	net/code/java/TimeClient.java	net/code/javar/TimeClient.java
+R100	net/code/java/TimeClientExample.java	net/code/javar/TimeClientExample.java
+R100	net/code/java/TimeClientImplementation.java	net/code/javar/TimeClientImplementations.java
+A	net/code/test/TimeClient.java
+
+1620988679
+D	net/code/test/TimeClient.java
+
+1620995846
+D	net/code/javar/TimeClient.java
