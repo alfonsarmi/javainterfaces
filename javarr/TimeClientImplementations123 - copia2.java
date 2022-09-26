@@ -13,6 +13,10 @@ public class TimeClientImplementation implements TimeClient {
     public TimeClientImplementation() {
         dateAndTime = LocalDateTime.now();
     }
+	
+	public TimeClientImplementation2() {
+        dateAndTime = LocalDateTime.now();
+    }
     
     public void setTime(int hour, int minute, int second) {
         LocalDate currentDate = LocalDate.from(dateAndTime);
